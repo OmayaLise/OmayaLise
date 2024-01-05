@@ -1,7 +1,7 @@
 ### Hello there 👋 
 
-#### I love making game ( and playing them ) :joystick: 
-#### My main langages are C++ and C# with a tiny bit of Python
+#### I love making games ( and playing them ) :joystick: 
+#### My main programming languages are C++ and C# with a tiny bit of Python
 #### I do games on Unity (mostly) and Unreal (sometimes) 
 #### Check out my portfolio if you wanna know more :eyes:
 <!--
