@@ -1,8 +1,8 @@
 ### Hello there 👋 
 
-#### I love making game ( and playing them ). 
-#### My main langages are C++ and C# with a tiny bit of Python. 
-#### I do games on Unity (mostlyà and Unreal (sometimes).
+#### I love making game ( and playing them ) :joystick: 
+#### My main langages are C++ and C# with a tiny bit of Python
+#### I do games on Unity (mostlyà and Unreal (sometimes)
 <!--
 **OmayaLise/OmayaLise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
